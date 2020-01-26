@@ -1,0 +1,84 @@
+body{
+    font-family: 'Lato-Regular';
+    font-size: 14px;
+    line-height: 23px;
+    font-style: normal;
+    font-weight: 400;
+}
+h1{
+    font-family : 'Lato-Bold';
+    font-weight : 700;;
+    font-style : normal;
+    font-size : 36px;
+}
+h2{
+   font-family : 'Lato-Bold';
+   font-weight : 700;
+   font-style : normal;
+   font-size : 30px;
+}
+h3{
+   font-family : 'Lato-Bold';
+   font-weight : 700;
+   font-style : normal;
+   font-size: 28px;
+}
+h4{
+   font-family : 'Lato-Bold';
+   font-weight : 700;
+   font-style : normal;
+   font-size : 26px;
+}
+h5,h6{
+   font-family : 'Lato-Regular';
+   font-weight : 500;
+   font-style : normal;
+   font-size : 24px;
+}
+p{
+    font-family: 'Lato-Regular';
+    font-size: 14px;
+    line-height: 23px;
+    font-style: normal;
+    font-weight: 400;
+}
+i{
+    font-family : 'Lato-Light';
+    font-style : normal;
+    font-size : 12px;
+    font-weight : 300;
+ }
+ em{
+    font-family : 'Lato-Regular';
+    font-style : normal;
+    font-size : 14px;
+ }
+ strong {
+    font-family : 'Lato-Bold';
+    font-weight : 700;
+    font-style : normal;
+    font-size : 14px;
+ }
+ a {
+    font-family : 'Lato-Regular';
+    font-style : normal;
+    font-size : 14px;
+ }
+ b{
+    font-family : 'Lato-Bold';
+    font-weight : 700;
+    font-style : normal;
+    font-size : 14px;
+ }
+ span{
+    font-family : 'Lato-Regular';
+    font-style : normal;
+    font-size : 14px;
+ }
+ div,section{
+    font-family: 'Lato-Regular';
+    font-size: 14px;
+    line-height: 23px;
+    font-style: normal;
+    font-weight: 400;
+ }

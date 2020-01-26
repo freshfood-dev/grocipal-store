@@ -1,0 +1,19 @@
+/* 
+Theme Name:		 child-groci
+Theme URI:		 http://childtheme-generator.com/
+Description:	 child-groci is a child theme of Groci, created by ChildTheme-Generator.com
+Author:			 Freshfood
+Author URI:		 http://childtheme-generator.com/
+Template:		 qc_grocery
+Version:		 1.0.0
+Text Domain:	 child-groci
+*/
+
+
+/*
+    Add your custom styles here
+*/
+body{
+    font-family: 'Lato-Regular';
+    font-size: 14px;
+}

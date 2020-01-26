@@ -1,0 +1,48 @@
+2020-01-22T17:25:25+00:00 CRITICAL Uncaught Error: Call to undefined function vc_param_group_parse_atts() in /home/grocipal/public_html/wp-content/plugins/klb-shortcode/inc/klb-shortcode.php:44
+Stack trace:
+#0 /home/grocipal/public_html/wp-includes/shortcodes.php(325): groci_slider(Array, '', 'slider')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/grocipal/public_html/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(slider...', 'do_shortcode_ta...', '<p>[vc_row full...')
+#3 /home/grocipal/public_html/wp-includes/class-wp-hook.php(288): do_shortcode('<p>[vc_row full...')
+#4 /home/grocipal/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('<p>[vc_row full...', Array)
+#5 /home/grocipal/public_html/wp-includes/post-template.php(253): apply_filters('the_content', '[vc_row full_wi...')
+#6 /home/grocipal/public_html/wp-content/themes/qc_grocery/frontpage.php(35): the_content()
+#7 /home/grocipal/public_html/wp-includes/template-loader.php(98): include('/home/grocipal/...')
+#8 /home/grocipal/public_html/wp-blo in /home/grocipal/public_html/wp-content/plugins/klb-shortcode/inc/klb-shortcode.php on line 44
+
+2020-01-22T17:25:38+00:00 CRITICAL Uncaught Error: Call to undefined function vc_param_group_parse_atts() in /home/grocipal/public_html/wp-content/plugins/klb-shortcode/inc/klb-shortcode.php:44
+Stack trace:
+#0 /home/grocipal/public_html/wp-includes/shortcodes.php(325): groci_slider(Array, '', 'slider')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/grocipal/public_html/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(slider...', 'do_shortcode_ta...', '<p>[vc_row full...')
+#3 /home/grocipal/public_html/wp-includes/class-wp-hook.php(288): do_shortcode('<p>[vc_row full...')
+#4 /home/grocipal/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('<p>[vc_row full...', Array)
+#5 /home/grocipal/public_html/wp-includes/post-template.php(253): apply_filters('the_content', '[vc_row full_wi...')
+#6 /home/grocipal/public_html/wp-content/themes/qc_grocery/frontpage.php(35): the_content()
+#7 /home/grocipal/public_html/wp-includes/template-loader.php(98): include('/home/grocipal/...')
+#8 /home/grocipal/public_html/wp-blo in /home/grocipal/public_html/wp-content/plugins/klb-shortcode/inc/klb-shortcode.php on line 44
+
+2020-01-22T17:26:29+00:00 CRITICAL Uncaught Error: Call to undefined function vc_param_group_parse_atts() in /home/grocipal/public_html/wp-content/plugins/klb-shortcode/inc/klb-shortcode.php:44
+Stack trace:
+#0 /home/grocipal/public_html/wp-includes/shortcodes.php(325): groci_slider(Array, '', 'slider')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/grocipal/public_html/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(slider...', 'do_shortcode_ta...', '<p>[vc_row full...')
+#3 /home/grocipal/public_html/wp-includes/class-wp-hook.php(288): do_shortcode('<p>[vc_row full...')
+#4 /home/grocipal/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('<p>[vc_row full...', Array)
+#5 /home/grocipal/public_html/wp-includes/post-template.php(253): apply_filters('the_content', '[vc_row full_wi...')
+#6 /home/grocipal/public_html/wp-content/themes/qc_grocery/frontpage.php(35): the_content()
+#7 /home/grocipal/public_html/wp-includes/template-loader.php(98): include('/home/grocipal/...')
+#8 /home/grocipal/public_html/wp-blo in /home/grocipal/public_html/wp-content/plugins/klb-shortcode/inc/klb-shortcode.php on line 44
+
+2020-01-22T17:27:24+00:00 CRITICAL Uncaught Error: Call to undefined function vc_param_group_parse_atts() in /home/grocipal/public_html/wp-content/plugins/klb-shortcode/inc/klb-shortcode.php:44
+Stack trace:
+#0 /home/grocipal/public_html/wp-includes/shortcodes.php(325): groci_slider(Array, '', 'slider')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/grocipal/public_html/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(slider...', 'do_shortcode_ta...', '<p>[vc_row full...')
+#3 /home/grocipal/public_html/wp-includes/class-wp-hook.php(288): do_shortcode('<p>[vc_row full...')
+#4 /home/grocipal/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('<p>[vc_row full...', Array)
+#5 /home/grocipal/public_html/wp-includes/post-template.php(253): apply_filters('the_content', '[vc_row full_wi...')
+#6 /home/grocipal/public_html/wp-content/themes/qc_grocery/frontpage.php(35): the_content()
+#7 /home/grocipal/public_html/wp-includes/template-loader.php(98): include('/home/grocipal/...')
+#8 /home/grocipal/public_html/wp-blo in /home/grocipal/public_html/wp-content/plugins/klb-shortcode/inc/klb-shortcode.php on line 44
+
