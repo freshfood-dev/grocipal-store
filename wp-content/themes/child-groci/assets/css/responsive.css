@@ -1,0 +1,13 @@
+@media (max-width:480px){
+    nav.klb-middle .row{
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .order-xs-first{
+        text-align: center;
+    }
+    .order-xs-second{
+        text-align: center;
+        margin-bottom: 30px;
+    }
+}

@@ -13,7 +13,48 @@ Text Domain:	 child-groci
 /*
     Add your custom styles here
 */
+
+/*Header*/
+.navbar.klb-middle{
+    background: #cc4f18 !important;
+}
+.top-categories-search{
+    top: -16px;
+    width: 100%;
+}
+.cart-btn .btn.btn-link.border-none{
+    background: transparent !important;
+}
+/*Header*/
+/*======================================*/
+/*Body*/
 body{
-    font-family: 'Lato-Regular';
-    font-size: 14px;
+    background-color: #f3f3f1;
+}
+button,.btn,.btn-secondary{
+    background: #d89608 !important;
+}
+.ui-slider .ui-slider-handle{
+    background: #d89608 !important;
+}
+
+/*=============*/
+span.password-input{
+    display: block;
+    width: 100%;
+
+}
+.klb-breadcrumb{
+    background: #385f27 !important;
+}
+/*=============*/
+
+/*Footer*/
+.mt-1, .my-1{
+    margin-top: 1rem !important;
+}
+
+.widget_nav_menu .menu li a{
+    color: #fff;
+    line-height: 2;
 }

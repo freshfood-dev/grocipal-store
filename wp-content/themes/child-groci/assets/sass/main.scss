@@ -1,0 +1,20 @@
+.account-page{
+    .woocommerce{
+        .form.woocommerce-form.woocommerce-form-login.login{
+            width: 800px;
+            margin: 5% auto;
+            box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.06);
+            background: #fff;
+            padding: 5% 10%;
+            @media(max-width: 768px){
+                width: 100%;
+            }
+        }
+    }
+    .woocommerce-notices-wrapper+h2{
+        text-align: center;
+    }
+}
+.close{
+    background: transparent !important;
+}
